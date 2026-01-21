@@ -24,23 +24,23 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
 ---
 
 ##  🧰 Hardware Components
- • ATmega32 Microcontroller (16 MHz)
- • 6 × Seven Segment Displays (Common Anode)
- • 7447 BCD Decoder
- • NPN Transistors for multiplexing
- • Push buttons (Reset, Pause, Resume, Mode, Adjustments)
- • Buzzer
- • LEDs
- • Proteus Simulation Environment
+ - ATmega32 Microcontroller (16 MHz)
+ - 6 × Seven Segment Displays (Common Anode)
+ - 7447 BCD Decoder
+ - NPN Transistors for multiplexing
+ - Push buttons (Reset, Pause, Resume, Mode, Adjustments)
+ - Buzzer
+ - LEDs
+ - Proteus Simulation Environment
 
 ---
 
 ##  🧠 Concepts Used
- • Embedded C Programming
- • Timers & Interrupts
- • External Interrupts (INT0, INT1, INT2)
- • Multiplexed Display Driving
- • Debouncing
- • Bitwise Register Configuration
+ - Embedded C Programming
+ - Timers & Interrupts
+ - External Interrupts (INT0, INT1, INT2)
+ - Multiplexed Display Driving
+ - Debouncing
+ - Bitwise Register Configuration
  • Hardware Interfacing
  • State Machine Logic
