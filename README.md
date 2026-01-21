@@ -1,6 +1,6 @@
-🕒 Stopwatch with Dual Mode (Increment & Countdown) using ATmega32
+##🕒 Stopwatch with Dual Mode (Increment & Countdown) using ATmega32
 
-📌 Project Overview
+##📌 Project Overview
 
 This project implements a digital stopwatch system using an ATmega32 microcontroller.
 The stopwatch supports two operating modes:
@@ -11,7 +11,7 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
 
 ⸻
 
-⚙️ Features
+##⚙️ Features
  • ⏱️ Real-time counting using Timer1 (CTC Mode)
  • 🔁 Dual operating modes (Count Up / Count Down)
  • ⏸️ Pause and Resume using external interrupts
@@ -23,7 +23,7 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
 
 ⸻
 
-🧰 Hardware Components
+##🧰 Hardware Components
  • ATmega32 Microcontroller (16 MHz)
  • 6 × Seven Segment Displays (Common Anode)
  • 7447 BCD Decoder
@@ -35,7 +35,7 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
 
 ⸻
 
-🧠 Concepts Used
+##🧠 Concepts Used
  • Embedded C Programming
  • Timers & Interrupts
  • External Interrupts (INT0, INT1, INT2)
