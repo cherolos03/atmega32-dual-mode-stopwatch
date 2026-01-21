@@ -42,5 +42,5 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
  - Multiplexed Display Driving
  - Debouncing
  - Bitwise Register Configuration
- • Hardware Interfacing
- • State Machine Logic
+ - Hardware Interfacing
+ - State Machine Logic
