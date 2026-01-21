@@ -42,5 +42,19 @@ The system displays hours, minutes, and seconds using six multiplexed seven-segm
  - Multiplexed Display Driving
  - Debouncing
  - Bitwise Register Configuration
+---
+## 🖼️ Project Images
+
+### 🔌 Hardware Schematic
+This schematic shows the full hardware connections including the ATmega32, 7447 BCD decoder, multiplexed seven-segment displays, buttons, LEDs, and buzzer.
+
+![Hardware Schematic](docs/schematic.jpg)
+
+---
+
+### 🧪 Proteus Simulation
+This image shows the project running in Proteus simulation environment.
+
+![Proteus Simulation](docs/simulation.jpg)
  - Hardware Interfacing
  - State Machine Logic
